@@ -6,26 +6,33 @@
 #REQUIRED
 org_name: Scientists of The Gambia
 org_summary: > # Enter your summary on the next line. Be sure to indent by two spaces.
-  A mobile-friendly Github Pages template designed to help grassroots nonprofits get a website online quickly
+  “Scientist of The Gambia” - SOTG - is an initiative to inspire and motivate the youth to pursue STEM careers
 org_full_description: > # Enter your description on the next line. Be sure to indent by two spaces.
-  Ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.
+  SOTG features STEM professionals of Gambian descent, sharing their personal stories to inspire and motivate the youth to pursue STEM careers. SOTG also has the following plans to to reach young Gambia.
+  -Setup a network of mentors and mentees
+  -Partner with other organizations to get STEM professionals interacting with young Gambians
+  -Organize career events like career symposiums, career day, and networking.
+  -Setup partnerships with elementary schools so STEM professionals can periodically visit and talk to students about STEM career paths.
+  -Organize an annual week long summer STEM bootcamp, where high schoolers interested in pursuing STEM career are helped with preparing for college, for example, application process, choosing majors, and finding relevant colleges. 
+  -Internships opportunities for young Gambians. Encourage Gambian scientists to have shadow days at work.
+
 
 #OPTIONAL
 #Non US-address support coming soon
-org_general_email_inbox: your-email@somedomain.com
-org_street_address: 1355 Market Street #Please include suite number on the line below
-org_address_suite: Suite 900
-org_city: San Francisco
-org_state: CA
-org_zip: > # Enter zip on next line. Be sure to indent by two spaces.
+org_general_email_inbox: scientistsofthegambia@gmail.com
+#org_street_address: 1355 Market Street #Please include suite number on the line below
+#org_address_suite: Suite 900
+#org_city: San Francisco
+#org_state: CA
+#org_zip: > # Enter zip on next line. Be sure to indent by two spaces.
   94103
-org_phone: > # Enter phone on next line. Be sure to indent by two spaces.
+#org_phone: > # Enter phone on next line. Be sure to indent by two spaces.
   (123) 456-7890
 
 #SOCIAL MEDIA
-org_twitter_username: smartergiving
-org_facebook_username: smartergiving
-org_instagram_username:
+org_twitter_username: GambiaScientist
+org_facebook_username: GambiaScientist
+#org_instagram_username:
 
 #TAX STATUS
 #Your site will display an appropriate message below the Donate section
@@ -33,17 +40,17 @@ org_instagram_username:
 fiscal_sponsor: false
 fiscal_sponsor_name:
 #If your organization is currently registered as a 501(c)3 organization, enter true below. Otherwise enter false. Enter false if you have a fiscal sponsor.
-501c3: true
+501c3: false
 
 #ONLINE DONATIONS & EMAIL SIGNUPS
 #To use these services, enter the required usernames. For further instructions, consult the README file.
 #If you do not wish to use a service, simply remove everything after the colon (:), leaving the item blank
-donorbox_campaign_name: free-template-demo
-tinyletter_username: interestingnonprofits
+#donorbox_campaign_name: free-template-demo
+#tinyletter_username: interestingnonprofits
 
 #SEARCH ENGINES
 #Changing this next setting to 'true' will allow your site to be indexed by search engines (like Google)
-publish: false
+publish: true
 
 #THEME
 #Select one of the five color schemes (default, one, two, three, or four)
