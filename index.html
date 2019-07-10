@@ -70,8 +70,9 @@ layout: default
     <h2 class="title text-center">About Us</h2>
     <p class="intro text-center">{{ site.org_full_description }}</p>
     <h3 class="title text-center">Current Plans</h3>
-    <p class="intro text-center">{{ site.current_plans }}</p>
-    <ul type="disc">
+    #<p class="intro text-center">{{ site.current_plans }}</p>
+    <ul type="square">
+        <lh>{{ site.current_plans }}</lh>
         <li>{{ site.current_plans_1 }}</li>
         <li>{{ site.current_plans_2 }}</li>
         <li>{{ site.current_plans_3 }}</li>
