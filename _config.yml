@@ -11,8 +11,20 @@ org_full_description: > # Enter your description on the next line. Be sure to in
   The main goal of SOTG is to inspire and motivate Gambian youth to pursue STEM careers. The initiative has been social media based 
   so far, featuring and sharing the personal stories of over 35 STEM professionals of Gambian descent.
 current_plans: >
-  SOTG also has the following plans to to reach young Gambians: 1.Setup a network of mentors and mentees. 2.Partner with other organizations to get STEM professionals interacting with young Gambians. 3.Organize career events like career symposiums, career day, and networking. 4.Setup partnerships with elementary schools so STEM professionals can periodically visit and talk to students about STEM career paths. 5.Organize an annual week long summer STEM bootcamp, where high schoolers interested in pursuing STEM career are helped with preparing for college, for example, application process, choosing majors, and finding relevant colleges. 
-  6.Internship opportunities for young Gambians and encourage Gambian scientists to have shadow days at work.
+  SOTG also has the following plans to to reach young Gambians: 
+current_plans_1: >
+  Setup a network of mentors and mentees.
+current_plans_2: >
+  Partner with other organizations to get STEM professionals interacting with young Gambians.
+current_plans_3: >
+  Organize career events like career symposiums, career day, and networking.
+current_plans_4: >
+  Setup partnerships with elementary schools so STEM professionals can periodically visit and talk to students about STEM career paths. 
+current_plans_5: >
+  Organize an annual week long summer STEM bootcamp, where high schoolers interested in pursuing STEM career are helped with preparing 
+  for college, for example, application process, choosing majors, and finding relevant colleges. 
+current_plans_6: >
+  Internship opportunities for young Gambians and encourage Gambian scientists to have shadow days at work.
 
 
 #OPTIONAL
